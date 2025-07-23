@@ -9,7 +9,7 @@ Application Load balancer
 
 - **Application Port**: 8080
 - **Instance ID**: i-090af1e5330633903
-- **VPC ID**: vpc-0e5368d13bea14beb
+- **VPC ID**: vpc-0e5
 - **Subnet ID**: subnet-0e65273d0bdf1b932
 - **Security Group**: launch-wizard-4 (configured to allow port 8080)
 
